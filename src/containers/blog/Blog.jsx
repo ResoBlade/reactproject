@@ -18,7 +18,7 @@ const Blog = () => {
                     <Article imgUrl={blog02} date="Sep 26, 2021" text="1 GPT-3 and Open  AI is the future. Let us exlore how it is?" />
                     <Article imgUrl={blog03} date="Sep 26, 2021" text="2 GPT-3 and Open  AI is the future. Let us exlore how it is?" />
                     <Article imgUrl={blog04} date="Sep 26, 2021" text="3 GPT-3 and Open  AI is the future. Let us exlore how it is?" />
-                    <Article imgUrl={blog05} date="Sep 26, 2021" text="4 GPT-3 and Open  AI is the future. Let us exlore how it is?" />
+                    <Article imgUrl={blog05} date="Sep 26, 2021" text="Text saved to new branch" />
                 </div>
 
             </div>
