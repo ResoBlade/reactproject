@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/ResoBlade/reactproject/static/css/main.b4ef41ca.chunk.css",
+    "main.js": "/ResoBlade/reactproject/static/js/main.048ed10c.chunk.js",
+    "main.js.map": "/ResoBlade/reactproject/static/js/main.048ed10c.chunk.js.map",
+    "runtime-main.js": "/ResoBlade/reactproject/static/js/runtime-main.70e25668.js",
+    "runtime-main.js.map": "/ResoBlade/reactproject/static/js/runtime-main.70e25668.js.map",
+    "static/js/2.0065a255.chunk.js": "/ResoBlade/reactproject/static/js/2.0065a255.chunk.js",
+    "static/js/2.0065a255.chunk.js.map": "/ResoBlade/reactproject/static/js/2.0065a255.chunk.js.map",
+    "index.html": "/ResoBlade/reactproject/index.html",
+    "static/css/main.b4ef41ca.chunk.css.map": "/ResoBlade/reactproject/static/css/main.b4ef41ca.chunk.css.map",
+    "static/js/2.0065a255.chunk.js.LICENSE.txt": "/ResoBlade/reactproject/static/js/2.0065a255.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/ResoBlade/reactproject/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/ResoBlade/reactproject/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/ResoBlade/reactproject/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/ResoBlade/reactproject/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/ResoBlade/reactproject/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/ResoBlade/reactproject/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.16efaf42.svg": "/ResoBlade/reactproject/static/media/logo.16efaf42.svg",
+    "static/media/people.5cd2d6fb.png": "/ResoBlade/reactproject/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/ResoBlade/reactproject/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.70e25668.js",
+    "static/js/2.0065a255.chunk.js",
+    "static/css/main.b4ef41ca.chunk.css",
+    "static/js/main.048ed10c.chunk.js"
+  ]
+}
